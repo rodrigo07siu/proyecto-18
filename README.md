@@ -1,1 +1,1 @@
-# proyecto-18
+# plantilla-del-proyecto-corta-tus-frutas
